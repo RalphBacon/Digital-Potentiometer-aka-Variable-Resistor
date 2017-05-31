@@ -1,6 +1,6 @@
-# Digital-Potentiometer-aka-Variable-Resistor
+# Digital Potentiometer aka Variable Resistor
 Digital version of a variable resistor - all controlled by an Arduino  
-See the accompanying video #88 on my YouTube channel: https://www.youtube.com/RalphBacon
+# See the accompanying video #88 on my YouTube channel: https://www.youtube.com/RalphBacon
 
 If you ever wanted to adjust a circuit using a digital version of a potentiometer (variable resistor) controlled by an Arduino then this is the easy way to do it - and at a price that won't break the bank either.
 
