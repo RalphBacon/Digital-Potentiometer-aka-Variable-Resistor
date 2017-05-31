@@ -6,6 +6,8 @@ If you ever wanted to adjust a circuit using a digital version of a potentiomete
 
 Even better, it remembers the last setting if you switch it off, but do watch the video for some caveats of this feature.
 
+It would be straightforward to use an infrared remote control to control the volume, for example, of an amplifier by using one of these devices.
+
 There are only three control wires and of course the three wires that represent the variable resistor too.
 
 In my GitHub there's a link to the PDF for this device (I'm using the 10K version - X9C103, but other values are available, see the video for more details).
